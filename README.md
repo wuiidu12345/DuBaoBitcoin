@@ -9,7 +9,7 @@ Dự án này đã được cấu hình chạy tự động, giúp toàn bộ c�
 Để file cài đặt tự động `ChayUngDung.bat` hoạt động chính xác, cấu trúc thư mục của bạn bắt buộc phải được sắp xếp như sau (thư mục `miniconda_core` nằm ở thư mục cha, dùng chung cho các phiên bản code):
 
 ```
-DuBaoBitcoin/
+DuBaoBitcoin-main/
 │
 ├── miniconda_core/         <-- Folder bộ lõi Miniconda (Tự tìm trong máy và bỏ vào, sau đó đổi tên folder đấy thành "miniconda_core")
 │   ├── Scripts/
