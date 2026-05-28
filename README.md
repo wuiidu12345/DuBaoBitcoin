@@ -12,7 +12,6 @@ Dự án này đã được cấu hình chạy tự động, giúp toàn bộ c�
 DuBaoBitcoin-main/
 │
 ├── DuBaoBitcoin_vX.X/       <-- Folder mã nguồn dự án (Tải từ GitHub)
-│   ├── .vscode/
 │   ├── UngDung.py
 │   ├── ToiUuThamSo.py
 │   ├── ThuVien.txt
