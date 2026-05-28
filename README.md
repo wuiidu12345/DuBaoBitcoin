@@ -11,18 +11,16 @@ Dự án này đã được cấu hình chạy tự động, giúp toàn bộ c�
 ```
 DuBaoBitcoin-main/
 │
-├── miniconda_core/         <-- [Tự thêm] Folder bộ lõi Miniconda (Tự tìm trong máy và bỏ vào, sau đó đổi tên folder đấy thành "miniconda_core")
-│   ├── Scripts/
-│   │   ├── conda.exe
-│   │   └── activate.bat
-│   └── ...
+├── DuBaoBitcoin_vX.X/       <-- Folder mã nguồn dự án (Tải từ GitHub)
+│   ├── .vscode/
+│   ├── UngDung.py
+│   ├── ToiUuThamSo.py
+│   ├── ThuVien.txt
+│   └── ChayUngDung.bat
 │
-└── DuBaoBitcoin_vX.X/       <-- Folder mã nguồn dự án (Tải từ GitHub)
-    ├── .vscode/
-    ├── UngDung.py
-    ├── ToiUuThamSo.py
-    ├── ThuVien.txt
-    └── ChayUngDung.bat
+├── miniconda_core/          <-- [Tự thêm] Folder bộ lõi Miniconda (Tự tìm trong máy và bỏ vào, sau đó đổi tên folder đấy thành "miniconda_core")
+│
+└── README.md
 ```
 
 ======================================================================
