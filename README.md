@@ -11,7 +11,7 @@ Dự án này đã được cấu hình chạy tự động, giúp toàn bộ c�
 ```
 DuBaoBitcoin-main/
 │
-├── miniconda_core/         <-- Folder bộ lõi Miniconda (Tự tìm trong máy và bỏ vào, sau đó đổi tên folder đấy thành "miniconda_core")
+├── miniconda_core/         <-- [Tự thêm] Folder bộ lõi Miniconda (Tự tìm trong máy và bỏ vào, sau đó đổi tên folder đấy thành "miniconda_core")
 │   ├── Scripts/
 │   │   ├── conda.exe
 │   │   └── activate.bat
