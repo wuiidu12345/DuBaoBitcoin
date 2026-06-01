@@ -13,7 +13,6 @@ DuBaoBitcoin-main/
 │
 ├── DuBaoBitcoin_vX.X/       <-- Folder mã nguồn dự án (Tải từ GitHub)
 │   ├── UngDung.py
-│   ├── ToiUuThamSo.py
 │   ├── ThuVien.txt
 │   └── ChayUngDung.bat
 │
